@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @robertdrake-tr
 - 👀 I’m interested in all things related to homelab
 - 🌱 I’m currently learning new magic words to make computers to do my bidding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
 
 <!---
 robertdrake-tr/robertdrake-tr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
